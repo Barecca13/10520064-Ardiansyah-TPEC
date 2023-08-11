@@ -1,0 +1,1 @@
+Nama Teman Saya Arya. Tulisan ini ditampilkan dari view

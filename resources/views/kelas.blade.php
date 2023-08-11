@@ -1,0 +1,1 @@
+Saya dari kelas IS-2. Tulisan ini ditampilkan dari view
